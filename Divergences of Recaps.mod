@@ -1,4 +1,4 @@
-name = "DoD Heartbreaker MP 4.9.5"
-path = "mod/DoD Heartbreaker MP 4.9.5"
-user_dir = "DoD Heartbreaker MP 4.9.5"
+name = "Divergences of Recaps"
+path = "mod/Divergences of Recaps"
+user_dir = "Divergences of Recaps5"
 replace_path = "decisions"
