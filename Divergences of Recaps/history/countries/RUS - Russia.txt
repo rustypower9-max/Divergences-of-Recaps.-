@@ -1,12 +1,12 @@
-capital = 994
+capital = 1
 primary_culture = russian
 culture = byelorussian
 culture = ukrainian
 religion = orthodox
 government = absolute_monarchy
-plurality = 0.0
+plurality = 20.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.40
 civilized = yes
 
 set_country_flag = serfdom_not_abolished
