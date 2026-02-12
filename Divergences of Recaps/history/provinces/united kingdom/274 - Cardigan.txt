@@ -1,10 +1,10 @@
-owner = DUA
-controller = DUA
-add_core = DUA
+owner = WLS
+controller = WLS
+#add_core = DUA
 add_core = WLS
-add_core = ENG
+#add_core = ENG
 trade_goods = iron
-life_rating = 33
+life_rating = 40
 1861.1.1 = { railroad = 3 }
 
 

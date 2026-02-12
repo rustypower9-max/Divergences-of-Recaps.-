@@ -1,11 +1,11 @@
-owner = DUA
-controller = DUA
-add_core = DUA
+owner = WLS
+controller = WLS
+#add_core = DUA
 add_core = WLS
-add_core = ENG
+#add_core = ENG
 trade_goods = coal
 naval_base = 1
-life_rating = 33
+life_rating = 40
 state_building = {
 	level = 1
 	building = steel_factory
