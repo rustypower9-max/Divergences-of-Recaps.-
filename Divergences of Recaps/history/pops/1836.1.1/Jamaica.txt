@@ -3,82 +3,64 @@
 #Jamaica (372000/93000 POPS)
 2217 = {
     aristocrats = {
-        culture = burgundian
-        religion = protestant
-        size = 100
+        culture = hungarian
+        religion = catholic
+        size = 10000
+    }
+
+    officers = {
+        culture = hungarian
+        religion = catholic
+        size = 4000
     }
 
     bureaucrats = {
-        culture = burgundian
-        religion = protestant
-        size = 85
+        culture = hungarian
+        religion = catholic
+        size = 14000
     }
 
     clergymen = {
-        culture = burgundian
-        religion = protestant
-        size = 75
+        culture = hungarian
+        religion = catholic
+        size = 20000
     }
 
     artisans = {
-        culture = burgundian
-        religion = protestant
-        size = 2500
+        culture = hungarian
+        religion = catholic
+        size = 286541
     }
 
     soldiers = {
-        culture = burgundian
-        religion = protestant
-        size = 50
+        culture = hungarian
+        religion = catholic
+        size = 500871
     }
 
     farmers = {
-        culture = burgundian
-        religion = protestant
-        size = 2190
-    }
-
-    clergymen = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 625
-    }
-
-    artisans = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 2000
-    }
-
-    soldiers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 1100
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 84375
+        culture = hungarian
+        religion = catholic
+        size = 8364982
     }
 }
 #Cayman Islands : (1200/300 POPS) #still a British Colony
 2218 = {
     clergymen = {
         culture = afro_caribbean
-        religion = protestant
+        religion = catholic
         size = 5
     }
 
     artisans = {
         culture = afro_caribbean
-        religion = protestant
+        religion = catholic
         size = 15
     }
 
     farmers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = catholic
         size = 280
     }
 }
