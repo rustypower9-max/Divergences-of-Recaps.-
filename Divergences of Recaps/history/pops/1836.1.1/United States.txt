@@ -34,13 +34,13 @@
 	
 	craftsmen = {
         culture = russian
-        religion = catholic
+        religion = orthodox
         size = 138345
     }
 
     farmers = {
         culture = russian
-        religion = animist
+        religion = orthodox
         size = 299,945
     }
 }
